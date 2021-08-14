@@ -1,0 +1,33 @@
+body {
+    margin: auto;
+    max-width: 1093px;
+    font-family: "Bitter";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+}
+
+h1 {
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 84px;
+    color: #000000;
+}
+
+.newspaper {
+    display: flex;
+}
+
+.news-col {
+    padding: 1rem;
+}
+
+p,
+ul,
+li {
+    padding-top: 10px;
+}
